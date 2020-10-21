@@ -1,0 +1,112 @@
+normal
+screen -> 800
+cells -> 400
+seed -> random
+mag -> 0.015
+extraMag -> 0.045
+weight -> 0.75
+passes -> 2
+sea -> 47
+fp -> 100
+moutain -> 80
+outline -> False
+
+
+
+--
+
+
+fun
+screen -> 600
+cells -> 300
+seed -> random
+mag -> 0.01
+extraMag -> 0.05
+weight -> 0.8
+passes -> 100
+sea -> 45
+fp -> 100
+moutain -> 75
+outline -> False
+
+--
+
+
+islands
+screen -> 800
+cells -> 400
+seed -> 90
+mag -> 0.009
+extraMag -> 0.05
+weight -> 0.9
+passes -> 5
+sea -> 53
+fp -> 10
+moutain -> 100
+outline -> False
+
+--
+
+
+ice
+screen -> 600
+cells -> 300
+seed -> 636693
+mag -> 0.01
+extraMag -> 0.05
+weight -> 0.69
+passes -> 1
+sea -> 48
+fp -> 280
+moutain -> 70
+outline -> False
+
+
+--
+
+
+game
+screen -> 800
+cells -> 400
+seed -> 828890
+mag -> 0.01
+extraMag -> 0.09
+weight -> 0.9
+passes -> 5
+sea -> 50
+fp -> 125
+moutain -> 65
+outline -> False
+
+--
+
+
+swamps
+screen -> 800
+cells -> 400
+seed -> 95
+mag -> 0.01
+extraMag -> 0.09
+weight -> 0.87
+passes -> 1
+sea -> 45
+fp -> 85
+moutain -> 70
+outline -> False
+
+
+--
+
+
+overworld
+screen -> 400
+cells -> 16
+seed -> random
+mag -> 0.005
+extraMag -> 0.1
+weight -> 0.67
+passes -> 1
+sea -> 45
+fp -> 10
+moutain -> 90
+outline -> True
