@@ -51,14 +51,14 @@ outline -> False
 ice
 screen -> 600
 cells -> 300
-seed -> 636693
+seed -> random
 mag -> 0.01
-extraMag -> 0.05
-weight -> 0.69
+extraMag -> 0.1
+weight -> 0.9
 passes -> 1
-sea -> 48
-fp -> 280
-moutain -> 70
+sea -> 55
+fp -> 90
+moutain -> 80
 outline -> False
 
 
